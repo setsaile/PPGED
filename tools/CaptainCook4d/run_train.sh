@@ -1,0 +1,1 @@
+python train.py configs/CaptainCook4d/cook4d_b2_n2_gmm.yaml --output final
